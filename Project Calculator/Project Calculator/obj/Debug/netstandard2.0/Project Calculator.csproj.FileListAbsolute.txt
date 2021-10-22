@@ -1,0 +1,14 @@
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 1\staging ground\Project Calculator\Project Calculator\Project Calculator\bin\Debug\netstandard2.0\Project Calculator.deps.json
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 1\staging ground\Project Calculator\Project Calculator\Project Calculator\bin\Debug\netstandard2.0\Project Calculator.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 1\staging ground\Project Calculator\Project Calculator\Project Calculator\bin\Debug\netstandard2.0\ref\Project Calculator.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 1\staging ground\Project Calculator\Project Calculator\Project Calculator\bin\Debug\netstandard2.0\Project Calculator.pdb
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 1\staging ground\Project Calculator\Project Calculator\Project Calculator\obj\Debug\netstandard2.0\Project Calculator.csprojAssemblyReference.cache
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 1\staging ground\Project Calculator\Project Calculator\Project Calculator\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 1\staging ground\Project Calculator\Project Calculator\Project Calculator\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 1\staging ground\Project Calculator\Project Calculator\Project Calculator\obj\Debug\netstandard2.0\Project Calculator.AssemblyInfoInputs.cache
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 1\staging ground\Project Calculator\Project Calculator\Project Calculator\obj\Debug\netstandard2.0\Project Calculator.AssemblyInfo.cs
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 1\staging ground\Project Calculator\Project Calculator\Project Calculator\obj\Debug\netstandard2.0\Project Calculator.csproj.CoreCompileInputs.cache
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 1\staging ground\Project Calculator\Project Calculator\Project Calculator\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 1\staging ground\Project Calculator\Project Calculator\Project Calculator\obj\Debug\netstandard2.0\Project Calculator.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 1\staging ground\Project Calculator\Project Calculator\Project Calculator\obj\Debug\netstandard2.0\ref\Project Calculator.dll
+C:\Users\mattk\Documents\Techtorium\year 2\mobile dev\weak 1\staging ground\Project Calculator\Project Calculator\Project Calculator\obj\Debug\netstandard2.0\Project Calculator.pdb

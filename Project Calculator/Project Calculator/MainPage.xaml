@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Project_Calculator.MainPage">
+
+
+    <Grid Padding="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50" />
+            <RowDefinition Height="50" />
+            <RowDefinition Height="50" />
+            <RowDefinition Height="50" />
+            <RowDefinition Height="50" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+        <Entry x:Name="input" Placeholder="Enter Equation here" Grid.Row="0" Grid.ColumnSpan="5" Keyboard="Numeric" Text="{Binding BoundValue}" TextChanged="OnTextChanged"/>
+        <Label x:Name="res" Grid.Row="1" Grid.ColumnSpan="5" />
+        <Button x:Name="BtnAdd" Text="+" Grid.Row="2" Grid.Column="0" Clicked="BtnAdd_Clicked" />
+        <Button x:Name="BtnSub" Text="-" Grid.Row="2" Grid.Column="1" Clicked="BtnSub_Clicked" />
+        <Button x:Name="BtnMul" Text="*" Grid.Row="2" Grid.Column="2" Clicked="BtnMul_Clicked" />
+        <Button x:Name="BtnDiv" Text="/" Grid.Row="2" Grid.Column="3" Clicked="BtnDiv_Clicked"/>
+        <Button x:Name="BtnEqu" Text="=" Grid.Row="2" Grid.Column="4" Clicked="BtnEqu_Clicked"/>
+        <Button x:Name="Btn0" Text="0" Grid.Row="3" Grid.Column="0" Clicked="Btn0_Clicked"/>
+        <Button x:Name="Btn1" Text="1" Grid.Row="3" Grid.Column="1" Clicked="Btn1_Clicked"/>
+        <Button x:Name="Btn2" Text="2" Grid.Row="3" Grid.Column="2" Clicked="Btn2_Clicked"/>
+        <Button x:Name="Btn3" Text="3" Grid.Row="3" Grid.Column="3" Clicked="Btn3_Clicked"/>
+        <Button x:Name="Btn4" Text="4" Grid.Row="3" Grid.Column="4" Clicked="Btn4_Clicked"/>
+        <Button x:Name="Btn5" Text="5" Grid.Row="4" Grid.Column="0" Clicked="Btn5_Clicked"/>
+        <Button x:Name="Btn6" Text="6" Grid.Row="4" Grid.Column="1" Clicked="Btn6_Clicked"/>
+        <Button x:Name="Btn7" Text="7" Grid.Row="4" Grid.Column="2" Clicked="Btn7_Clicked"/>
+        <Button x:Name="Btn8" Text="8" Grid.Row="4" Grid.Column="3" Clicked="Btn8_Clicked"/>
+        <Button x:Name="Btn9" Text="9" Grid.Row="4" Grid.Column="4" Clicked="Btn9_Clicked"/>
+        <Button x:Name="BtnDot" Text="." Grid.Row="5" Grid.Column="3" Clicked="BtnDot_Clicked"/>
+        <Button x:Name="BtnC" Text="C" Grid.Row="5" Grid.Column="4" Clicked="BtnC_Clicked"/>
+        <Button x:Name="Btnlig" Text="Light Mode" Grid.Row="5" Grid.ColumnSpan="3" Clicked="Btnlig_Clicked"/>
+        
+        
+        
+    </Grid>
+</ContentPage>
